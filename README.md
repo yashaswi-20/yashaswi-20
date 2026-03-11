@@ -1,57 +1,85 @@
-# Hey 👋 I'm Yashaswi
+# Hi, I'm Yashaswi 👋
 
-💻 **Frontend Developer | 🚀 Full Stack Learner | ☁️ Cloud Curious**
+💻 **Computer Science Engineering Student** passionate about understanding how systems work — from low-level programming to modern distributed applications.
 
----
-
-## 👨‍💻 About Me
-
-🔹 Interested in **Backend + Full Stack development**  
-🔹 Working with **JavaScript, c++, java , React**  
-🔹 Currently learning **Backend & System Design**  
-🔹 Love building **real-world projects**
+I enjoy building things from scratch, exploring operating systems, and solving algorithmic problems. When I'm not coding, you'll find me experimenting with Linux environments or playing chess.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Current Focus
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- React
-
-### Backend (Learning)
-- Node.js
-- Express
-
-### Tools
-- Git
-- GitHub
-- VS Code
-
-### Cloud (Exploring)
-- AWS
-- Cloud Basics
+* Improving **Data Structures & Algorithms**
+* Exploring **Systems Programming and C++**
+* Contributing to **Open Source Projects**
+* Building **full-stack applications**
 
 ---
 
-## 📫 Connect With Me
+## 🧠 Interests
 
-- GitHub: https://github.com/yashaswi-20
-- LinkedIn: Add your LinkedIn here
+* Artificial Intelligence & Machine Learning
+* Blockchain Technologies
+* Systems Programming
+* Robotics & Embedded Systems
+* Linux & Terminal-based workflows
 
-<!--
-**yashaswi-20/yashaswi-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40"/>
+
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy minimal terminal-based workflows and experimenting with Linux setups.
+
+---
+
+## 📊 GitHub Stats
+
+---
+
+## 🔥 Most Used Languages
+
+---
+
+## 🌐 Connect With Me
+
+* LinkedIn: https://linkedin.com/in/YOUR-LINK
+* Instagram: https://instagram.com/YOUR-ID
