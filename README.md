@@ -1,4 +1,4 @@
-# Hey 👋 I'm Vikas Kohli
+# Hey 👋 I'm Yashaswi
 
 💻 **Frontend Developer | 🚀 Full Stack Learner | ☁️ Cloud Curious**
 
@@ -6,8 +6,8 @@
 
 ## 👨‍💻 About Me
 
-🔹 Interested in **Frontend + Full Stack development**  
-🔹 Working with **JavaScript, TypeScript, React**  
+🔹 Interested in **Backend + Full Stack development**  
+🔹 Working with **JavaScript, c++, java , React**  
 🔹 Currently learning **Backend & System Design**  
 🔹 Love building **real-world projects**
 
@@ -19,7 +19,6 @@
 - HTML
 - CSS
 - JavaScript
-- TypeScript
 - React
 
 ### Backend (Learning)
@@ -39,7 +38,7 @@
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/VikasKohli11
+- GitHub: https://github.com/yashaswi-20
 - LinkedIn: Add your LinkedIn here
 
 <!--
