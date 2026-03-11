@@ -73,6 +73,11 @@ I enjoy minimal terminal-based workflows and experimenting with Linux setups.
 
 ## 📊 GitHub Stats
 
+![Yashaswi GitHub stats](https://github-readme-stats.vercel.app/api?username=yashaswi-20&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashaswi-20&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashaswi-20&layout=compact&theme=tokyonight)
 ---
 
 ## 🔥 Most Used Languages
