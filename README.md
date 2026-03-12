@@ -1,27 +1,28 @@
 # Hi, I'm Yashaswi 👋
 
-💻 **Computer Science Engineering Student** passionate about understanding how systems work — from low-level programming to modern distributed applications.
+💻 Computer Science student focused on problem solving, C++ development, and full-stack web applications.
 
-I enjoy building things from scratch, exploring operating systems, and solving algorithmic problems. When I'm not coding, you'll find me experimenting with Linux environments or playing chess.
+I spend most of my time improving my understanding of Data Structures & Algorithms, studying core computer science subjects, and building small projects with modern web technologies. I like digging into how things actually work under the hood rather than just using frameworks blindly.
 
 ---
 
 ## 🚀 Current Focus
 
-* Improving **Data Structures & Algorithms**
-* Exploring **Systems Programming and C++**
-* Contributing to **Open Source Projects**
-* Building **full-stack applications**
+Strengthening Data Structures & Algorithms (C++)
+Building React + Node.js full-stack projects
+Practicing SQL and database design
+Improving Linux and development workflow
 
 ---
 
 ## 🧠 Interests
 
-* Artificial Intelligence & Machine Learning
-* Blockchain Technologies
-* Systems Programming
-* Robotics & Embedded Systems
-* Linux & Terminal-based workflows
+Algorithms & Competitive Programming
+C++ and low-level problem solving
+Databases (SQL / DBMS fundamentals)
+Backend development (Node.js, Express)
+Modern frontend with React
+Linux development environments
 
 ---
 
