@@ -41,11 +41,6 @@
 
 ---
 
-## ⚡ Fun Fact
-
-I enjoy minimal terminal-based workflows and experimenting with Linux setups.
-
----
 
 ## 📊 GitHub Stats
 
@@ -62,5 +57,4 @@ I enjoy minimal terminal-based workflows and experimenting with Linux setups.
 
 ## 🌐 Connect With Me
 
-* LinkedIn: https://linkedin.com/in/YOUR-LINK
-* Instagram: https://instagram.com/YOUR-ID
+* LinkedIn: https://linkedin.com/in/yashaswi-7576b1335/
