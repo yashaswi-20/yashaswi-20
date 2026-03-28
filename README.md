@@ -1,30 +1,5 @@
 # Hi, I'm Yashaswi 👋
 
-💻 Computer Science student focused on problem solving, C++ development, and full-stack web applications.
-
-I spend most of my time improving my understanding of Data Structures & Algorithms, studying core computer science subjects, and building small projects with modern web technologies. I like digging into how things actually work under the hood rather than just using frameworks blindly.
-
----
-
-## 🚀 Current Focus
-
-Strengthening Data Structures & Algorithms (C++)
-Building React + Node.js full-stack projects
-Practicing SQL and database design
-Improving Linux and development workflow
-
----
-
-## 🧠 Interests
-
-Algorithms & Competitive Programming
-C++ and low-level problem solving
-Databases (SQL / DBMS fundamentals)
-Backend development (Node.js, Express)
-Modern frontend with React
-Linux development environments
-
----
 
 ## 🛠 Tech Stack
 
